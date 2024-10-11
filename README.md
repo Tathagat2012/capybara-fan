@@ -1,2 +1,2 @@
 # capybara-fan
-I am describing about an animal capybara
+I am describing about an animal capybara.
